@@ -1,5 +1,4 @@
-Number Formatter
-=========
+# Number Formatter
 
 A small library that adds commas to numbers
 

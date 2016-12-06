@@ -1,0 +1,26 @@
+{
+  "name": "@maurogoncalo/number-formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintyPT/number-formatter.git"
+  },
+  "author": "Mauro Santos <“mauro.goncalo@gmail.com”> (http://maurogoncalo.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintyPT/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/mintyPT/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
